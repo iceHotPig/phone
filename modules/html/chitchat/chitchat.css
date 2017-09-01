@@ -1,0 +1,20 @@
+.chitchat .content_swrapper_r{display:flex;margin-bottom:10px}
+.chitchat .content_swrapper_r .content_lef{flex:0 0 50px;margin-top:46px}
+.chitchat .content_swrapper_r .content_lef img{height:50px;width:50px;border-radius:50%}
+.chitchat .content_swrapper_r .content_mid{flex:1;margin:0 15px}
+.chitchat .content_swrapper_r .content_mid .mid_txt{border-radius:10px;background-color:#fefdf3;position:relative;font-size:16px}
+.chitchat .content_swrapper_r .content_mid .mid_txt::after{position:absolute;top:10px;left:-19px;height:0;width:0;content:" ";border-width:10px;border-style:solid;border-color:transparent #fefdf3 transparent transparent}
+.chitchat .content_swrapper_r .content_mid .mid_txt p{margin:0;padding:10px;text-align:left;line-height:20px}
+.chitchat .content_swrapper_r .content_mid p{margin-top:20px;text-align:center}
+.chitchat .content_swrapper_r .content_rig{flex:0 0 50px}
+.chitchat .content_swrapper_r .content_rig img{height:50px;width:50px;border-radius:50%}
+.chitchat .content_swrapper_l{display:flex;padding-top:20px;margin-bottom:10px}
+.chitchat .content_swrapper_l .content_lef{flex:0 0 50px}
+.chitchat .content_swrapper_l .content_lef img{height:50px;width:50px;border-radius:50%}
+.chitchat .content_swrapper_l .content_mid{flex:1;margin:0 15px}
+.chitchat .content_swrapper_l .content_mid .mid_txt{position:relative;border-radius:10px;background-color:#fff;font-size:16px}
+.chitchat .content_swrapper_l .content_mid .mid_txt::after{position:absolute;right:-20px;top:10px;width:0;height:0;content:" ";border-width:10px;border-style:solid;border-color:transparent transparent transparent #fff}
+.chitchat .content_swrapper_l .content_mid .mid_txt p{margin:0;padding:10px;line-height:20px;text-align:left}
+.chitchat .content_swrapper_l .content_mid p{margin-top:20px;text-align:center}
+.chitchat .content_swrapper_l .content_rig{flex:0 0 50px}
+.chitchat .content_swrapper_l .content_rig img{height:50px;width:50px;border-radius:50%}

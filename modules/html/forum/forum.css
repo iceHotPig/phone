@@ -1,0 +1,26 @@
+.forum .content_search{width:100%;padding-top:25px;padding-bottom:25px;background:#3a5fd2}
+.forum .content_search .content_search_inp{height:45px;margin-left:12px;margin-right:12px;border-radius:5px;padding-left:10px;background:#fff}
+.forum .content_search .content_search_inp input{font-size:18px;margin-top:10px;border:0;outline:0}
+.forum .content_search i{font-size:24px;margin:11px}
+.forum .content_list{width:100%;padding-top:20px;background-color:#fff}
+.forum .content_list ul{margin:0 12px 0 8px;font-size:0}
+.forum .content_list ul li{width:25%;display:inline-block;font-size:13px}
+.forum .content_list ul li div{text-align:center}
+.forum .content_list ul li div i{padding:5px;font-size:30px;border-radius:50%;color:#fff;background:red}
+.forum .content_list ul li p{text-align:center}
+.forum .content_hot{width:100%}
+.forum .content_hot p{margin:0 12px;padding-top:18px;padding-bottom:13px;font-size:15px}
+.forum .content_hot p span{float:right}
+.forum .content_problem{background:#fff}
+.forum .content_problem ul{overflow:hidden;margin:0 21px}
+.forum .content_problem ul li{margin-top:15px}
+.forum .content_problem ul li i{width:25px;height:25px;line-height:25px;border-radius:50%;margin-right:10px;color:#fff;text-align:center;background:#ff1b00}
+.forum .content_problem ul li p{margin:10px}
+.forum .content_essence{width:100%}
+.forum .content_essence p{margin:0 12px;padding-top:18px;padding-bottom:13px;font-size:15px}
+.forum .content_essence p span{float:right}
+.forum .content_question{background:#fff}
+.forum .content_question ul{overflow:hidden;margin:0 21px}
+.forum .content_question ul li{margin-top:15px}
+.forum .content_question ul li i{width:25px;height:25px;line-height:25px;border-radius:50%;margin-right:10px;color:#fff;text-align:center;background:#ff1b00}
+.forum .content_question ul li p{margin:10px}

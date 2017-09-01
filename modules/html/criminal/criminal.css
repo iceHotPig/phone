@@ -1,0 +1,20 @@
+.criminal .content{width:100%}
+.criminal .content .content_title{width:100%;padding-top:14px;padding-bottom:14px;background-color:#fff}
+.criminal .content .content_title i{width:50px;height:50px;font-size:25px;line-height:50px;background:#f283a3;border-radius:25px;margin:0 auto;color:#fff;display:block;text-align:center}
+.criminal .content .content_main{background-color:#fff;padding-bottom:19px}
+.criminal .content .content_main h3{height:18px;font-size:18px;margin-bottom:15px;margin:0 auto;text-align:center}
+.criminal .content .content_main p{text-indent:30px;font-size:15px;margin:0 12px}
+.criminal .content .content_statistics{width:100%;height:40px;margin-bottom:9px;background-color:#fff;border-bottom:1px solid #f1f1f1;border-top:1px solid #f1f1f1}
+.criminal .content .content_statistics .content_people{width:49%;height:100%;font-size:15px;text-align:center;border-right:1px solid #f1f1f1}
+.criminal .content .content_statistics .content_people span{color:#ec7159}
+.criminal .content .content_statistics .content_min{width:50%;height:100%;font-size:15px;text-align:center}
+.criminal .content .content_statistics .content_min span{color:#ec7159}
+.criminal .content .content_duty{width:100%}
+.criminal .content .content_duty .content_duty_header{width:100%;height:42px;margin-top:9px;background:#fff;overflow:hidden}
+.criminal .content .content_duty .content_duty_header p{color:#f2af6d;margin-left:12px}
+.criminal .content .content_duty .content_duty_header span{display:block;color:#f2af6d;margin-top:14px;margin-right:12px}
+.criminal .content .content_duty ul{width:100%;height:auto;margin-top:1px solid #f1f1f1}
+.criminal .content .content_duty ul li{height:90px;width:100%;background-color:#fff;border-bottom:1px solid #f1f1f1;border-top:1px solid #f1f1f1}
+.criminal .content .content_duty ul li p{margin:6px}
+.criminal .content .content_duty ul li img{height:60px;width:60px;margin:16px 19px 0 10px}
+.criminal .content .content_wait{height:48px;line-height:48px;margin-left:12px;margin-right:12px;color:#fff;text-align:center;background-color:#3a5fd2;border-radius:5px}

@@ -1,0 +1,22 @@
+.evaluate .content{background:#fff}
+.evaluate .content_people{margin-left:12px;margin-right:12px;padding-top:15px;font-size:15px;border-bottom:1px solid #fafafa}
+.evaluate .content_people .content_people_pic{height:81px;width:81px}
+.evaluate .content_people .content_people_pic img{width:65px;height:65px;border-radius:50%}
+.evaluate .content_people .content_people_title{width:70%}
+.evaluate .content_people .content_people_title p{margin:10px;color:#7a7a7a}
+.evaluate .content_people .content_people_title p span{margin-left:10px;color:#959595;border:0}
+.evaluate .content_people .content_people_title span{height:25px;width:50px;line-height:25px;border-radius:5px;margin-top:-45px;text-align:center;color:#ff1b00;border:1px solid #ff1b00}
+.evaluate .content_face{width:100%;background:#fff}
+.evaluate .content_face ul{margin-left:12px;padding-top:19px;margin-right:12px;padding-bottom:19px;font-size:0}
+.evaluate .content_face ul li{height:59px;width:33.33%;font-size:15px;box-sizing:border-box;display:inline-block}
+.evaluate .content_face ul li:nth-child(2){border-left:1px solid #f8f8f8;border-right:1px solid #f8f8f8}
+.evaluate .content_face ul li p{margin:0;text-align:center}
+.evaluate .content_face ul li i{width:30%;height:49px;font-size:34px;margin:0 auto;display:block;color:#d0d0d0}
+.evaluate .content_remark{width:100%;margin-top:10px;background:#fff}
+.evaluate .content_remark ul{margin-left:12px;margin-right:12px;padding-top:13px;padding-bottom:13px;font-size:0}
+.evaluate .content_remark ul li{width:33.33%;font-size:15px;box-sizing:border-box;padding:0 2px;height:40px;line-height:40px;border-radius:3px;margin:15px 0;text-align:center;color:#fa7700;display:inline-block}
+.evaluate .content_remark ul li div{border:1px solid #f4f4f4}
+.evaluate .content_text{padding-left:12px;padding-right:12px;margin-top:10px;background-color:#fff}
+.evaluate .content_text textarea{width:100%;height:143px;border-radius:3px;margin:15px 0;resize:none;box-sizing:border-box}
+.evaluate .content_submit{width:100%;padding-left:12px;padding-right:12px;margin-top:30px;box-sizing:border-box}
+.evaluate .content_submit button{width:100%;font-size:15px;padding:15px 0;color:#fff;background-color:#3a5fd2;border:0;outline:0}

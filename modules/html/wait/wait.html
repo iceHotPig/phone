@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="wait.css">
+
+<div id="header">
+  <a href="javascript:history.go(-1);">&lt;返回</a>
+  <p>等待排队</p>
+  <i class="iconfont icon-saoyisao"></i>
+</div>
+<div class="wait">
+	<div class="content">
+		<div class="content_circle" id="wait">
+		</div>
+		<div class="content_text clearfix">
+			<div class="text_left pull-left">
+				<p>40分钟</p>
+				<p>预计等待时间</p>
+			</div>
+			<div class="text_right pull-right">
+				<p>刑事</p>
+				<p>你的咨询业务</p>
+			</div>
+		</div>
+		<div class="content_footer">
+			<p>退出排队</p>
+		</div>
+	</div>
+</div>
+
+<script>
+	var main=require('modules/js/main')
+	main.wait.init();
+</script>

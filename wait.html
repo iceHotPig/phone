@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="renderer" content="webkit|ie-comp|ie-stand">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>查询</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="renderer" content="webkit|ie-comp|ie-stand">
+
+    <link rel="stylesheet" type="text/css" href="pkg/css/modules.css" />
+    <link rel="stylesheet" href="pkg/css/common.css" />
+    <link rel="stylesheet" href="wait.css" />
+</head>
+<body>
+	<!-- <link rel="import" href="modules/html/header/header.html?__inline"> -->
+
+<div id="header">
+  <a href="javascript:history.go(-1);">&lt;返回</a>
+  <p>等待排队</p>
+  <i class="iconfont icon-saoyisao"></i>
+</div>
+<div class="wait">
+	<div class="content">
+		<div class="content_circle" id="wait">
+		</div>
+		<div class="content_text clearfix">
+			<div class="text_left pull-left">
+				<p>40分钟</p>
+				<p>预计等待时间</p>
+			</div>
+			<div class="text_right pull-right">
+				<p>刑事</p>
+				<p>你的咨询业务</p>
+			</div>
+		</div>
+		<div class="content_footer">
+			<p>退出排队</p>
+		</div>
+	</div>
+</div>
+	<!-- <link rel="import" href="modules/html/footer/footer.html?__inline"> -->
+	<script src="pkg/lib/mod.js"></script>
+<script type="text/javascript" src="pkg/js/modules.js"></script>
+<script>
+	var main=require('modules/js/main')
+	main.wait.init();
+</script>
+</body>
+</html>

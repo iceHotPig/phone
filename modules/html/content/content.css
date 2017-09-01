@@ -1,0 +1,11 @@
+.content{width:100%}
+.content ul{width:100%}
+.content ul li{position:relative;width:100%;height:90px;border-bottom:1px solid #f8f8f8;background-color:#fff;padding:13px 0}
+.content ul li h3{height:17px;font-size:17px;margin-left:77px}
+.content ul li p{height:10px;font-size:10px;margin-top:-5px;margin-left:77px}
+.content ul li i:first-child{position:absolute;top:27px;left:12px;font-size:37px}
+.content ul li i:last-child{position:absolute;top:37px;right:12px;font-size:19px}
+.content ul li #icon_y{color:#f18c48}
+.content ul li #icon_g{color:#9aee46}
+.content ul li #icon_r{color:#f15e4f}
+.content ul li #icon_b{color:#49b4f1}

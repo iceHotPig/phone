@@ -1,0 +1,7 @@
+.wait .content{background-color:#3a5fd2}
+.wait .content .content_circle{margin:0 auto;width:100%;height:380px}
+.wait .content .content_text{padding:0 12px;color:#fff;font-size:15px}
+.wait .content .content_text .text_left{width:50%;text-align:center}
+.wait .content .content_text .text_right{width:50%;text-align:center}
+.wait .content .content_footer{position:relative;height:200px;color:#c2cdf1;font-size:15px}
+.wait .content .content_footer p{position:absolute;top:50%;left:50%;margin-left:-80px;margin-top:-10px;padding:10px 50px;border:1px solid #c2cdf1;border-radius:24px}

@@ -1,0 +1,13 @@
+.crimindetail *{padding:0;margin:0}
+.crimindetail .content_question{padding:0 12px;background:#fff}
+.crimindetail .content_question dl dt{font-size:0;padding:20px 0 16px}
+.crimindetail .content_question dl dt i{display:inline-block;vertical-align:top;font-size:15px;font-weight:500px;color:#00f}
+.crimindetail .content_question dl dt p{display:inline-block;vertical-align:top;font-size:15px;font-weight:500;margin-left:10px}
+.crimindetail .content_question dl dd{font-size:12px;line-height:20px;text-indent:20px}
+.crimindetail .content_question .question_icon{position:relative}
+.crimindetail .content_question .question_icon .icon_right{position:absolute;top:0;right:12px;color:#00f}
+.crimindetail .content_question .question_icon .icon_right span{color:#000;margin-left:10px}
+.crimindetail .content_answer{padding:0 12px}
+.crimindetail .content_answer .answer_people{font-size:0}
+.crimindetail .content_answer .answer_people img{display:inline-block;vertical-align:top;height:40px;width:40px;border-radius:50%}
+.crimindetail .content_answer .answer_people p{display:inline-block;vertical-align:top;font-size:12px}
